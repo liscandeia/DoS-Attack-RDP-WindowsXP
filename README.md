@@ -45,10 +45,14 @@ Realizar um ataque de negação de serviço (DoS) utilizando uma vulnerabilidade
    run
    ```
 A execução do ataque deve causar a "tela azul" na VM Windows XP:
+
 ![image](https://github.com/user-attachments/assets/021bda16-66a2-47c5-be72-04cb2da15ca0)
 
 
 No terminal do Kali Linux, o progresso do ataque será exibido:
+
 ![image](https://github.com/user-attachments/assets/5470861f-bf27-4236-b583-dd0a80caf4b0)
+
+***Este ataque é realizado em ambiente controlado para fins educacionais***
 
 
